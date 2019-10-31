@@ -9,7 +9,7 @@ pip install -r requirement.txt
 export LC_ALL=es_ES.UTF-8
 ```
 
-## To config default variables config variables.py 
+## To change default values config variables.py 
 
  ####  default_path 
     * Project folder default
